@@ -1,7 +1,7 @@
 package io.ppmtool.ppmtool.services;
 
 import io.ppmtool.ppmtool.domain.Project;
-import io.ppmtool.ppmtool.reposotories.ProjectRepository;
+import io.ppmtool.ppmtool.repositories.ProjectRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

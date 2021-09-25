@@ -1,4 +1,4 @@
-package io.ppmtool.ppmtool.reposotories;
+package io.ppmtool.ppmtool.repositories;
 
 import io.ppmtool.ppmtool.domain.Project;
 import org.springframework.data.repository.CrudRepository;
