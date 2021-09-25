@@ -1,4 +1,4 @@
-package ip.agileintellligense.ppmtool;
+package io.ppmtool.ppmtool;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
